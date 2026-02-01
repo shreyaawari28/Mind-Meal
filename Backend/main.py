@@ -10,8 +10,8 @@ app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "https://sujalpatil21.github.io",
-        "https://meal-mind-5n51.onrender.com"
+        "https://shreyaawari28.github.io",
+        "https://mind-meal-b62f.onrender.com"
     ],
     allow_credentials=True,
     allow_methods=["*"],
